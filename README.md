@@ -20,14 +20,16 @@
 ### Batch No: B7 - 1A3E
 
 ### Team Leader : 
-FADAL RAZIN .S
+KEVIN JOSE
 
 ### Team members : 
-FAUWAAZ ASHAAL
+AARY INFANT REWIN.A
 
-BASHEER AHMED
+BALA.J
 
-HYDER ALI
+MANOJ KUMAR.P
+
+ASHWANTH P.S
 
 ### Checklist:
 

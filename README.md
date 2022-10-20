@@ -44,9 +44,9 @@ ASHWANTH P.S
   - [x] Problem Solution Fit
   - [x] Solution Architecture
   
-- [ ] Project Design Phase -II
+- [x] Project Design Phase -II
   - [x] Customer Journey
-  - [ ] Solution Requirements
+  - [x] Solution Requirements
   - [x] Data Flow Daigrams
   - [x] Technology Architecture
 
